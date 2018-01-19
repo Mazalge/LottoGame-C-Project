@@ -1,0 +1,19 @@
+C:\Users\user\Desktop\מזל גביין\Project\Project\bin\Debug\Project.exe.config
+C:\Users\user\Desktop\מזל גביין\Project\Project\bin\Debug\Project.exe
+C:\Users\user\Desktop\מזל גביין\Project\Project\bin\Debug\Project.pdb
+C:\Users\user\Desktop\מזל גביין\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\מזל גביין\Project\Project\obj\Debug\Project.exe
+C:\Users\user\Desktop\מזל גביין\Project\Project\obj\Debug\Project.pdb
+C:\Users\U$er\Dropbox\Telrad\פרויקט .c#\Mazal\Project\Project\bin\Debug\Project.exe.config
+C:\Users\U$er\Dropbox\Telrad\פרויקט .c#\Mazal\Project\Project\bin\Debug\Project.exe
+C:\Users\U$er\Dropbox\Telrad\פרויקט .c#\Mazal\Project\Project\bin\Debug\Project.pdb
+C:\Users\U$er\Dropbox\Telrad\פרויקט .c#\Mazal\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+C:\Users\U$er\Dropbox\Telrad\פרויקט .c#\Mazal\Project\Project\obj\Debug\Project.exe
+C:\Users\U$er\Dropbox\Telrad\פרויקט .c#\Mazal\Project\Project\obj\Debug\Project.pdb
+C:\Studies\All projects\Project c#\Project\bin\Debug\Project.exe.config
+C:\Studies\All projects\Project c#\Project\bin\Debug\Project.exe
+C:\Studies\All projects\Project c#\Project\bin\Debug\Project.pdb
+C:\Studies\All projects\Project c#\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+C:\Studies\All projects\Project c#\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Studies\All projects\Project c#\Project\obj\Debug\Project.exe
+C:\Studies\All projects\Project c#\Project\obj\Debug\Project.pdb
